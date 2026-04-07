@@ -21,9 +21,9 @@ int main()
     //Mengisi Data
     cout << "Isikan data nama : ";
     cin >> mhs.nama;
-    cout << "Isikan data alamat : ";
+    cout << "Isikan data desa : ";
     cin >> mhs.alamat.desa; 
-    cout << "Isikan data alamat : ";
+    cout << "Isikan data kota : ";
     cin >> mhs.alamat.kota; 
     cout << "Isikan data umur : ";
     cin >> mhs.umur; 

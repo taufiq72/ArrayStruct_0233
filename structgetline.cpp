@@ -22,9 +22,9 @@ int main()
     //Mengisi Data
     cout << "Isikan data nama : ";
     getline(cin, mhs.nama);
-    cout << "Isikan data alamat : ";
+    cout << "Isikan data desa : ";
     getline(cin, mhs.alamat.desa); 
-    cout << "Isikan data alamat : ";
+    cout << "Isikan data kota : ";
     getline(cin, mhs.alamat.kota); 
     cout << "Isikan data umur : ";
     cin >> mhs.umur; 
